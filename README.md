@@ -1,6 +1,4 @@
-### Hi there 👋 I am Hasini
-
-### 🌱 I'm a enthusiastic programmer 😊
+👋 Hello! I'm a computer science enthusiast 🖥️ currently pursuing my undergraduate degree at the University of Moratuwa 🎓. With a passion for programming 💻, I'm on a journey to explore and master the world of technology. Let's connect and share the digital adventure! 🌟 #ComputerScience #ProgrammingPassion 🚀
 
 <!--
 **hasiniV19/hasiniV19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
